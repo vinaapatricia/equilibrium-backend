@@ -1,5 +1,5 @@
-import Blog from '../models/post';
-import User from '../models/user';
+import Blog from '../models/post.js';
+import User from '../models/user.js';
 import mongoose from 'mongoose';
 
 
