@@ -20,3 +20,7 @@ mongoose.connect(process.env.MONGO_URI, {
 })
 .then(() => console.log("MongoDB connected successfully"))
 .catch((err) => console.error(err));
+
+app.get('/', (req, res) => {
+    res.send('Hello from Express.js has been deployed on Cloud Run in Region Asia-SouthEast2-Jakarta!');
+});
