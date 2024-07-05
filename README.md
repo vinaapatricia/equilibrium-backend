@@ -16,8 +16,16 @@ Keamanan dan Penghargaan: Menjaga lingkungan yang aman dan menghormati semua ang
 
 1. [Cloud Run](https://cloud.google.com/run/?utm_source=bing&utm_medium=cpc&utm_campaign=japac-AU-all-en-dr-bkwsrmkt-all-all-trial-e-dr-1009882&utm_content=text-ad-none-none-DEV_c-CRE_-ADGP_Hybrid+%7C+BKWS+-+EXA+%7C+Txt+~+Compute+~+Cloud+Run_cloud+run-general+-+Products-KWID_43700071931992661-kwd-74904499330994:loc-91&userloc_150302-network_o&utm_term=KW_google+cloud+run&gclid=5781d2508d051a1be70cb4d898e69b7e&gclsrc=3p.ds&msclkid=5781d2508d051a1be70cb4d898e69b7e&hl=en)
 2. [MongoDB](https://www.mongodb.com/lp/cloud/atlas/try4?utm_source=bing&utm_campaign=search_bs_pl_evergreen_atlas_core_prosp-brand_gic-null_apac-id_ps-all_desktop_eng_lead&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=415204525&adgroup=1212761794897445&msclkid=fdd69e7ff10d1c3f7a33f8f7e77d7ab0)
+3. [Postman](https://www.postman.com/)
 
-Link Endpoint
+
+## API
+<details>
+<summary>Dokumentasi API</summary>
+![carbon](https://github.com/vinaapatricia/equilibrium-backend/assets/95381061/7c9174bf-9982-484c-93ea-816843dbd23c)
+</details>
+
+Link 
 [API](https://equilibrium-backend-lqag4dnu5a-et.a.run.app/)
 
 
