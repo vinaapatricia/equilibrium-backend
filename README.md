@@ -12,6 +12,7 @@ Edukasi: Menyediakan sumber daya edukatif, artikel, dan diskusi untuk meningkatk
 Keamanan dan Penghargaan: Menjaga lingkungan yang aman dan menghormati semua anggota komunitas, dengan menekankan pada penghargaan dan empati.
 
 
+
 ## Tools
 
 1. [Cloud Run](https://cloud.google.com/run/?utm_source=bing&utm_medium=cpc&utm_campaign=japac-AU-all-en-dr-bkwsrmkt-all-all-trial-e-dr-1009882&utm_content=text-ad-none-none-DEV_c-CRE_-ADGP_Hybrid+%7C+BKWS+-+EXA+%7C+Txt+~+Compute+~+Cloud+Run_cloud+run-general+-+Products-KWID_43700071931992661-kwd-74904499330994:loc-91&userloc_150302-network_o&utm_term=KW_google+cloud+run&gclid=5781d2508d051a1be70cb4d898e69b7e&gclsrc=3p.ds&msclkid=5781d2508d051a1be70cb4d898e69b7e&hl=en)
@@ -20,10 +21,7 @@ Keamanan dan Penghargaan: Menjaga lingkungan yang aman dan menghormati semua ang
 
 
 ## API
-<details>
-<summary>Dokumentasi API</summary>
-![carbon](https://github.com/vinaapatricia/equilibrium-backend/assets/95381061/7c9174bf-9982-484c-93ea-816843dbd23c)
-</details>
+![carbon](https://github.com/vinaapatricia/equilibrium-backend/assets/95381061/3603a340-889b-4f3f-a7ac-649a2046eb86)
 
 Link 
 [API](https://equilibrium-backend-lqag4dnu5a-et.a.run.app/)
