@@ -19,6 +19,8 @@ Keamanan dan Penghargaan: Menjaga lingkungan yang aman dan menghormati semua ang
 2. [MongoDB](https://www.mongodb.com/lp/cloud/atlas/try4?utm_source=bing&utm_campaign=search_bs_pl_evergreen_atlas_core_prosp-brand_gic-null_apac-id_ps-all_desktop_eng_lead&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=415204525&adgroup=1212761794897445&msclkid=fdd69e7ff10d1c3f7a33f8f7e77d7ab0)
 3. [Postman](https://www.postman.com/)
 
+## Diagram
+![equi drawio](https://github.com/vinaapatricia/equilibrium-backend/assets/95381061/b06f9a62-4419-42ca-ba0d-b6571f5e2aa0)
 
 ## API
 ![carbon](https://github.com/vinaapatricia/equilibrium-backend/assets/95381061/3603a340-889b-4f3f-a7ac-649a2046eb86)
